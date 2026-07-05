@@ -1,5 +1,5 @@
 # ContactHub
-Smart Contact Management System
+<i>Smart Contact Management System</i>
 
 <br>
 ContactHub is a modern Java desktop application designed to simplify contact management through an intuitive and visually appealing interface.<br>
@@ -17,8 +17,8 @@ This project demonstrates practical implementation of Java GUI development, OOP,
 💾 Reliable MySQL database integration for persistent storage <br><br>
 
 <b>Technologies Used</b><br>
-Java <br>
-Java Swing <br>
-MySQL <br>
-JDBC <br>
-NetBeans IDE <br>
+- Java <br>
+- Java Swing <br>
+- MySQL <br>
+- JDBC <br>
+- NetBeans IDE <br>
